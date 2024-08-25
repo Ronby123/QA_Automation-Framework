@@ -1,5 +1,5 @@
 # Specify the Python version
-python_version >= 3.8
+python_version==3.12
 
 # Core libraries
 robotframework==6.0.2
