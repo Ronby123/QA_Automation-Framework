@@ -1,0 +1,29 @@
+# Specify the Python version
+python_version >= 3.8
+
+# Core libraries
+robotframework==6.0.2
+selenium==4.12.0
+requests==2.31.0
+
+# Additional libraries for advanced testing and reporting
+robotframework-seleniumlibrary==6.0.0
+robotframework-requests==0.9.3
+robotframework-jsonlibrary==0.5
+robotframework-pabot==2.7.0
+robotframework-sshlibrary==3.6.0
+robotframework-datadriver==1.5.0
+robotframework-pythonlibcore==3.0.0
+
+# Linting and formatting tools
+flake8==6.1.0
+black==23.7.0
+
+# Test coverage and reporting
+coverage==7.3.1
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# Other utilities
+Faker==18.9.0
+
